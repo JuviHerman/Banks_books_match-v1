@@ -8,4 +8,3 @@ Sometimes, businesses move from one bookkeeping system to another.
 In that process, it could happen that the matchings between bank and company are lost,
 and needed to be processed all over again.
 the following code is not perfect, but helps minimizing the task.
-
